@@ -40,7 +40,7 @@ Users can select from these filters to drill down and focus on specific data seg
 # 📌 Interactivity
 Clicking on any chart element (e.g., a car brand or region) automatically updates the other visuals to reflect filtered data — a key feature of Power BI that enhances data exploration.
 
-🔷 6. Purpose
+# 📌 Purpose
 This dashboard is ideal for:
 
 1. Business decision-makers to analyze trends and performance.
